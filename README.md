@@ -18,7 +18,7 @@ This repository already contains the **VAERS dataset** from the U.S. Vaccine Adv
   
   - `VAERSDATA.csv` → Main case and patient data  
   - `VAERSSYMPTOMS.csv` → Coded adverse event terms using the **MedDRA** (Medical Dictionary for Regulatory Activities) terminology.  
-     - Each report can have up to five coded symptoms (`SYMPTOM1`–`SYMPTOM5`), representing standardized MedDRA Preferred Terms (PTs).  
+     - Each report can have up to five coded symptoms (`SYMPTOM1`–`SYMPTOM5`), representing standardized MedDRA Preferred Terms.  
   - `VAERSVAX.csv` → Vaccine/product details  
 
 
