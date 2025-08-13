@@ -24,7 +24,7 @@ Contestants will use the **VAERS** dataset provided by the U.S. Vaccine Adverse 
      - `VAERSSYMPTOMS.csv` → reported symptoms  
      - `VAERSVAX.csv` → vaccine/product details
 
-4. Extract the ZIP and move all three CSV files into the `data/` folder of this repository.
+4. Extract the ZIP and move all three CSV files into the `data/raw` folder of this repository.
 
 ---
 
