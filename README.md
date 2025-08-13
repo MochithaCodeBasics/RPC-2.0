@@ -2,7 +2,7 @@
 
 This is the starter repository for Codebasics's Resume Project Challenge 2.0.  
 
-This project focuses on building an AI-powered pipeline to detect **Adverse Drug Events (ADEs)** from clinical text, group them into symptom-based and age-specific clusters, and classify each event by severity.
+This project focuses on building an AI-powered pipeline to detect **Adverse Drug Events (ADEs)** from symptom text, group them into symptom-based and age-specific clusters, and classify each event by severity.
 
 Please **fork this repository** to get started.
 
