@@ -1,4 +1,4 @@
-# VAERS ADE & DRUG Annotation Guidelines — RPC 2.0
+# VAERS ADE & DRUG Annotation Guidelines 
 
 ## 1. Definitions
 
