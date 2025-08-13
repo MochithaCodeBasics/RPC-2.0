@@ -1,0 +1,22 @@
+@"
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data folders (avoid pushing large datasets)
+data/raw/
+data/processed/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+"@ > .gitignore
