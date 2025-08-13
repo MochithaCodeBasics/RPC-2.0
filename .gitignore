@@ -9,13 +9,6 @@ __pycache__/
 venv/
 .env/
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints
-
-# Data folders (avoid pushing large datasets)
-data/raw/
-data/processed/
-
 # OS-specific
 .DS_Store
 Thumbs.db
