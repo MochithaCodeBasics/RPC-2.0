@@ -15,7 +15,7 @@ Contestants will use the **VAERS** dataset provided by the U.S. Vaccine Adverse 
 1. Visit the official VAERS Data page:  
    👉 [https://vaers.hhs.gov/data/datasets.html](https://vaers.hhs.gov/data/datasets.html)
 
-2. Scroll to the table listing data by year (similar to the screenshot below).
+2. Scroll to the table listing data by year.
 
 3. **Download the ZIP file** for your target year(s) from the **"Zip File"** column.  
    - Example: For 2025, click the link in the **Zip File** column (e.g., `4.95 MB`).
