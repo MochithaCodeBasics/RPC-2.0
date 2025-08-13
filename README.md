@@ -15,6 +15,7 @@ This repository already contains the **VAERS dataset** from the U.S. Vaccine Adv
 
 - **Raw data** is stored in the `data/raw` folder as **year-wise ZIP files**.
 - Each ZIP file corresponds to a specific year and contains **three CSV files**:
+  
   - `VAERSDATA.csv` → Main case and patient data  
   - `VAERSSYMPTOMS.csv` → Coded adverse event terms using the **MedDRA** (Medical Dictionary for Regulatory Activities) terminology.  
      - Each report can have up to five coded symptoms (`SYMPTOM1`–`SYMPTOM5`), representing standardized MedDRA Preferred Terms (PTs).  
