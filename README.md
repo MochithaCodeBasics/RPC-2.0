@@ -7,20 +7,25 @@ This project focuses on building an AI-powered pipeline to detect **Adverse Drug
 Please **fork this repository** to get started.
 
 ---
-
-
+ 
 ## 📂 Data Access Instructions
 
-This repository already contains the **VAERS dataset** from the U.S. Vaccine Adverse Event Reporting System (VAERS).
+Contestants will use the **VAERS** dataset provided by the U.S. Vaccine Adverse Event Reporting System.
 
-- **Raw data** is stored in the `data/raw` folder as **year-wise ZIP files**.
-- Each ZIP file corresponds to a specific year and contains **three CSV files**:
-  
-  - `VAERSDATA.csv` → Main case and patient data  
-  - `VAERSSYMPTOMS.csv` → Coded adverse event terms using the **MedDRA** (Medical Dictionary for Regulatory Activities) terminology.  
-     - Each report can have up to five coded symptoms (`SYMPTOM1`–`SYMPTOM5`), representing standardized MedDRA Preferred Terms.  
-  - `VAERSVAX.csv` → Vaccine/product details  
+1. Visit the official VAERS Data page:  
+   👉 [https://vaers.hhs.gov/data/datasets.html](https://vaers.hhs.gov/data/datasets.html)
 
+2. Scroll to the table listing data by year.
+
+3. **Download the ZIP file** for your target year(s) from the **"Zip File"** column.  
+   - Example: For 2025, click the link in the **Zip File** column (e.g., `4.95 MB`).
+   - The ZIP will contain **three CSV files**:  
+     - `VAERSDATA.csv` → main case and patient data  
+     - `VAERSSYMPTOMS.csv` → Coded adverse event terms using the **MedDRA** (Medical Dictionary for Regulatory Activities) terminology.  
+         - Each report can have up to five coded symptoms (`SYMPTOM1`–`SYMPTOM5`), representing standardized MedDRA Preferred Terms.  
+     - `VAERSVAX.csv` → vaccine/product details
+
+4. Extract the ZIP and move all three CSV files into the `data/` folder of this repository.
 
 ---
 
