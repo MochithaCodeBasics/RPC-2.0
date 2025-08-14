@@ -20,10 +20,10 @@ Contestants will use the **VAERS** dataset provided by the U.S. Vaccine Adverse 
 3. **Download the ZIP file** for your target year(s) from the **"Zip File"** column.  
    - Example: For 2025, click the link in the **Zip File** column (e.g., `4.95 MB`).
    - The ZIP will contain **three CSV files**:  
-     - `VAERSDATA.csv` → main case and patient data  
+     - `VAERSDATA.csv` → Main case and patient data  
      - `VAERSSYMPTOMS.csv` → Coded adverse event terms using the **MedDRA** (Medical Dictionary for Regulatory Activities) terminology.  
          - Each report can have up to five coded symptoms (`SYMPTOM1`–`SYMPTOM5`), representing standardized MedDRA Preferred Terms.  
-     - `VAERSVAX.csv` → vaccine/product details
+     - `VAERSVAX.csv` → Vaccine/product details
 
 4. Extract the ZIP and move all three CSV files into the `data/` folder of this repository.
 
