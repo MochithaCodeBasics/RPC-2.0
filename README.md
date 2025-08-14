@@ -40,4 +40,4 @@ They explain in detail:
 ---
 
 ### 📌 Learn More
-Visit the **[challenge page](https://codebasics.io/)** to learn more: **DS RPC-02**
+Visit the **[challenge page](https://codebasics.io/)** to learn more: **DS RPC-2.0**
