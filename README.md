@@ -25,7 +25,7 @@ Contestants will use the **VAERS** dataset provided by the U.S. Vaccine Adverse 
          - Each report can have up to five coded symptoms (`SYMPTOM1`–`SYMPTOM5`), representing standardized MedDRA Preferred Terms.  
      - `VAERSVAX.csv` → Vaccine/product details
 
-4. Extract the ZIP and move all three CSV files into the `data/` folder of this repository.
+4. Extract the ZIP and move all three CSV files into the `data/raw` folder of this repository.
 
 ---
 
