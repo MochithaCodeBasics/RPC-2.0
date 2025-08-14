@@ -35,7 +35,7 @@
 | Administrative issues             | Skip unless followed by a symptom.                                       | "product dose omission" → Skip                                                                      |
 | Breakthrough infection            | ADE if after vaccination.                                                | "COVID-19 infection after vaccination"                                                              |
 | Multi-word ADEs                   | Keep whole phrase if medically one concept; exclude unrelated info.      | ✅ "chronic obstructive pulmonary disease" / ❌ "chronic obstructive pulmonary disease causing cough" |
-| Compound ADE phrases              | If separate symptoms, split; if fixed expression, keep as one.           | "fever and headache" → "fever", "headache" / "nausea and vomiting" → one span (classic examples of ADE spans that are very often seen together in VAERS and other clinical safety datasets.)                       |
+| Compound ADE phrases              | If separate symptoms, split; if fixed expression, keep as one.           | "fever and headache" → "fever", "headache" / "nausea and vomiting" → one span (classic example of ADE spans that are very often seen together in VAERS and other clinical safety datasets.)                       |
 
 ---
 
